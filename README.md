@@ -1,6 +1,5 @@
 Project for Getting and Cleaning Data
 =====================================
-Author: Benjamin Chan (https://github.com/benjamin-chan/GettingAndCleaningData)
 
 
 Parameters for the project
