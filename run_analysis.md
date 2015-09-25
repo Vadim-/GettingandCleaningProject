@@ -1,6 +1,5 @@
 run_analysis
 ============
-Last updated 2014-04-17 09:04:14 using R version 3.0.2 (2013-09-25).
 
 
 Instructions for project
