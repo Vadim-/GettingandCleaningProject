@@ -127,7 +127,7 @@ list.files(pathIn, recursive = TRUE)
 ```
 
 
-**See the `README.txt` file in C:/Users/chanb/Documents/Repositories/Coursera/GettingAndCleaningData/Project for detailed information on the dataset.**
+**See the `README.txt` file in C:/Users/Vadim/Documents/Repositories/Coursera/GettingAndCleaningData/Project for detailed information on the dataset.**
 
 For the purposes of this project, the files in the `Inertial Signals` folders are not used.
 
