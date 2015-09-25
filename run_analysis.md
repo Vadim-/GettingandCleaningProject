@@ -54,7 +54,7 @@ path
 ```
 
 ```
-## [1] "C:/Users/chanb/Documents/Repositories/Coursera/GettingAndCleaningData/Project"
+## [1] "C:/Users/Vadim/Documents/Repositories/Coursera/GettingAndCleaningData/Project"
 ```
 
 
@@ -62,7 +62,7 @@ path
 Get the data
 ------------
 
-Download the file. Put it in the `Data` folder. **This was already done on 2014-04-11; save time and don't evaluate again.**
+Download the file. Put it in the `Data` folder. **This was already done on 2015-09-15; save time and don't evaluate again.**
 
 
 ```r
@@ -75,7 +75,7 @@ download.file(url, file.path(path, f))
 ```
 
 
-Unzip the file. **This was already done on 2014-04-11; save time and don't evaluate again.**
+Unzip the file. **This was already done on 2015-09-15; save time and don't evaluate again.**
 
 
 ```r
